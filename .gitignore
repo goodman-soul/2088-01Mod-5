@@ -19,6 +19,12 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# C build outputs
+pingpong
+*.o
+*.out
+
 .DS_Store
 *.log
 .env
